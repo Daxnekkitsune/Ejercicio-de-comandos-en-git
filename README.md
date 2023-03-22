@@ -1,10 +1,10 @@
 # Ejercicio-de-comandos-en-git
-#Consulta
+# Consulta
 
 
 
 
-##Consulta 30 etiquetas de html.
+### Consulta 30 etiquetas de html.
  
  - HTML:   Es la raiz o estructura principal del documento
 - title:  Define el titulo de la pagina  
@@ -40,35 +40,149 @@
 
 
 
-##Consulta 30 estilos CSS.
+### Consulta 30 estilos CSS.
 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
+-  color: Define el coor del texto a usar  
+-  font-family: Define el tipo de fuente que se desea usar 
+-  font-size: Define el tamaño fuente que se va a usar 
+-  border: Define el borde que hbra alrededor de algun elemento 
+-  padding: Define el espacio o relleno entre un elemento y el borde
+-  margin: Define la marge o espacio fuera del borde 
+-  width: Define el ancho que tendra un elemento
+-  background-color: Establece un color de fondo o de relleno
+-  text-shadow: Coloca una sombra difuminada en el texto de un elemento
+-  display: Selecciona la forma que se visulizra un elemento
+-  background-image: Establece una imagen de fondo
+-  border-style: Especifica que tipo de borde mostrar 
+-  background-repeat: Especifica si se repetira una imagen o no
+-  background-attachment: Establece si la imagen de fondo sera estatica o se desplazara en la pagina 
+-  dotted: Define un borde punteado
+-  dashed: Define un borde secontinuo
+-  solid: Define un borde solido
+-  double: Define un borde doble
+-  groove:Define un borde ranurado 
+-  ridge: Define un borde estriado
+-  inset: Define un borde de inserccion 
+-  outset: Define un borde inicial
+-  none: No defini un borde 
+-  hidden: Define un borde oculto
+-  border-width: Especifica el ancho que tendran los bordes
+-  border-color: Establece el color que tendran los bordes 
+-  border-radius: Establece un borde redondo 
+-  margin-top: Establece la margen superior de un elemnto
+-  margin-right: Establece la margen derecha de un elemento
+-  margin-left: Establece la margen izquierda de un elemnto
+     
+     
+     
+     
+### Consulta que es Display block, inline e inline-block
+
+Display block es una etiqueta que hace que un elemnto ocupe todo el espcio dispónible sin permitir otro a suslados, el Dsplay inline hace que bvarios elemntos compartan el espacio ubicandos en fila uno al lado del otro y el inline block permite que se hagan los dos osea que si hay suficiente espacio se comportara com block y si ni como inloine.
+
+
+
+
+### Mencionar en la consulta anterior de las etiquetas culaes son etiquetas block, inloine e inline block
+
+- inline: Muestra en la misma línea todos los elementos y no acepta las propiedades width, height ni margenes verticales.
+- block: Muestra los elementos en líneas independientes y acepta las propiedades width, height y margenes verticales.
+- inline-block: Su comportamiento es una mezcla entre los dos anteriores, se muestran en la misma línea todos los elementos y además, acepta las propiedades width, height y margenes verticales.
+
+
+
+### Consultar cuales son los eventos en JavaScript.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
