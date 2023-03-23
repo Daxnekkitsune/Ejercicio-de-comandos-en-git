@@ -93,96 +93,22 @@ Display block es una etiqueta que hace que un elemnto ocupe todo el espcio disp�
 
 ### Consultar cuales son los eventos en JavaScript.
 
+- click: Se produce cuando se da una pulsación o clic al botón del ratón sobre un elemento de la página, generalmente un botón o un enlace.
+- select: Se ejecuta cuando un usuario realiza una selección de un elemento de un formulario.
+- submit: Ocurre cuando el visitante apreta sobre el botón de enviar el formulario. Se ejecuta antes del envío propiamente dicho.
+- alert: Muestra un mensaje confirmando una accion determinada en un formulario o zona de interaccion.
+- move: Evento que se ejecuta cuando se mueve la ventana del navegador, o un frame.
+- resize:Evento que se produce cuando se redimensiona la ventana del navegador, o el frame, en caso de que la página los tenga.
+- reset: Este evento está asociado a los formularios y se desata en el momento que un usuario hace clic en el botón de reset de un formulario.
+- load: Este evento se desata cuando la página, o en Javascript 1.1 las imágenes, ha terminado de cargarse.
+- keydown: Este evento se produce en el instante que un usuario presiona una tecla, independientemente que la suelte o no. Se produce en el momento de la pulsación.
+keypress: Ocurre un evento onkeypress cuando el usuario deja pulsada una tecla un tiempo determinado. Antes de este evento se produce un onkeydown en el momento que se pulsa la tecla.
+keyup: Se produce cuando el usuario deja de apretar una tecla. Se produce en el momento que se libera la tecla.
+dragdrop: Se produce cuando un usuario suelta algo que había arrastrado sobre la página web.
 
 
 
 
+### Consultar que son los selectores simples y los compuestos.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
-     
+Los selectores simples son aquellos que estan formados por unica linea textual pero sin ningun combinador y los selectores compuestos son una cadena de varios selectores sin ningun combinador igualmente.
